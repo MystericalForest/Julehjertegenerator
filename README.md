@@ -7,4 +7,6 @@ Derudover kan man rette på bredden af hullet mellem strimlerne, så det er nemm
 
 Output fra generatoren kommer i SVG, så man kan overføre skabelonen til et kraftigere materiale med en vinylskærer eller en lasercutter. Det er naturligvis også muligt at printe SVG filen ud på en alm. printer og pklippe modellen ud derfra.
 
+Du starter programmet ved at køre filen haert_gui.py
+
 GUI er lavet i TKinter.
